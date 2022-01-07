@@ -1,0 +1,12 @@
+# Writing all output to: G:\.shortcut-targets-by-id\1CRveIYYvYhfNhn8QG3zWgwzEivZtBwLz\Hardware_NTX\Desarrollo de Hardware\Dise??os Proteus\Placa de interfaz Arduino V1\Placa de interfaz Arduino V1.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+
